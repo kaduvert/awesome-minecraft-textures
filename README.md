@@ -1,4 +1,4 @@
-# awesome-minecraft-textures
+# Awesome Minecraft Textures
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-(screenshot)
+<img width="1920" height="1080" alt="2026-09-08_01 03 02" src="https://github.com/user-attachments/assets/2a2b2caa-e8ee-42d0-a4b7-7422bf9f8345" />
 
 <br>
 
@@ -42,9 +42,11 @@ follow this guide to at least make it visually look like back then.
 (top to bottom)
 
 #1 1.8.9 textures (**converted as outlined above to** be **26.1.2** compatible)<br>
-#2 **Patched** [Classic Look](https://modrinth.com/resourcepack/classic-look] (patched with the above tool)<br>
+#2 **Patched** [Classic Look](https://modrinth.com/resourcepack/classic-look) (patched with [the above tool](https://kaduvert.github.io/awesome-minecraft-textures))<br>
 #3 [Programmer Art Ultimate](https://modrinth.com/resourcepack/programmer-art-ultimate)<br>
 #4 [Programmer Art Fix](https://modrinth.com/resourcepack/programmer-art-fix)<br>
+
+<img width="882" height="746" alt="screenshot-03d23773" src="https://github.com/user-attachments/assets/aedb897c-9e08-42f8-8965-a1e43edfba9f" />
 
 
 _Note that PA Ultimate and PA Fix as of right now don't actually have a 26.1.2 release, so you're merging incompatible packs. I didn't convert prior either though, so it's fine.
@@ -62,7 +64,7 @@ ingame you just have to **load the pack, but also make sure you** also **load** 
 #2 Programmer Art (built-in)<br>
 #3 Default Textures (built-in)<br>
 
-<br><br>
+<img width="881" height="388" alt="2026-09-08_01 34 29" src="https://github.com/user-attachments/assets/7c53ebe6-d215-4468-9cd8-fa90d7281818" />
 
 
 #### Footnote:
@@ -75,6 +77,4 @@ this is because we're talking about
 
 However **a texture pack is 80% the way there in terms of look and feel** so i guess **this is fine if you're usually a 1.8.9 player but want to play latest version without getting confused by all the changed textures**
 
-If you did it right your pack should be ~38.9MB big and your game should look like this:
-
-(video)
+If you did it right your pack should be ~38.9MB big and look and feel like a heavily modded Minecraft 1.8.9
