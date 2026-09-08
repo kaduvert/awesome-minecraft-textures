@@ -25,9 +25,11 @@ follow this guide to at least make it visually look like back then.
 
   - **[convert it to 26.1.2 with this converter](https://kaduvert.github.io/PackPort-1.8.9-to-26.1.2/)**
     - Note that you also need a 26.1.2 reference pack for this to work. Same game, extract it from your own legal copy of Minecraft, do not download random resource pack templates that hold all the assets
+<br>
 
 - get ["Classic Look" Resource Pack](https://modrinth.com/resourcepack/classic-look) (choose latest available version at download)
-  - [patch it with this tool](https://kaduvert.github.io/awesome-minecraft-textures)
+  - **[patch it with this tool](https://kaduvert.github.io/awesome-minecraft-textures)** (only this pack, not any of the others)
+<br>
 
 - get ["Programmer Art Ultimate"](https://modrinth.com/resourcepack/programmer-art-ultimate) (choose latest available version at download)
 
