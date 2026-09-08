@@ -51,7 +51,7 @@ follow this guide to at least make it visually look like back then.
 <img width="882" height="746" alt="screenshot-03d23773" src="https://github.com/user-attachments/assets/aedb897c-9e08-42f8-8965-a1e43edfba9f" />
 
 
-_Note that PA Ultimate and PA Fix as of right now don't actually have a 26.1.2 release, so you're merging incompatible packs. I didn't convert prior either though, so it's fine.
+_Note that PA Ultimate and Classic Look as of right now don't actually have a 26.1.2 release, so you're merging incompatible packs. I didn't convert prior either though, so it's fine.
 It doesn't matter if you pre-convert them in some online converter first, it's not worth the effort. I didn't do this either._
 
 <br>
