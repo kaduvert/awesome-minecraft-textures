@@ -67,7 +67,7 @@ _Note that PA Ultimate and Classic Look as of right now don't actually have a 26
 
 ## 3. Done
 
-If you did it right your **pack should be ~38.9MB big** and look and feel like a heavily modded Minecraft 1.8.9
+If you did it right your **pack should be ~38.9MB big** and the game should look and feel like a heavily modded Minecraft 1.8.9
 
 ingame you just have to **load the pack, but also make sure you** also **load** the built-in programmer art below it, so **your resource packs** are **ordered like this**:
 
@@ -90,5 +90,3 @@ this is because we're talking about
 - **physics changes** (**currently no mod out there** i think **that reverts to 1.8.9 physics**)
 
 However **a texture pack is 80% the way there in terms of look and feel** so i guess **this is fine if you're usually a 1.8.9 player but want to play latest version without getting confused by all the changed textures**
-
-If you did it right your pack should be ~38.9MB big and look and feel like a heavily modded Minecraft 1.8.9
