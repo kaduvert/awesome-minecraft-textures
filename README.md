@@ -66,9 +66,6 @@ _Note that PA Ultimate and Classic Look as of right now don't actually have a 26
 
 **Download the resulting pack and rename it to "Minecraft 1.8.9" or whatever (as said, for your local reference only, do not distribute this pack)**
 
-**It's also highly recommended to get "My Resource Packs, My Choice" such that you can control or completely deny that server resource pack override your own textures.**
-It makes it possible to achieve a nice hybrid, where like the server pack doesn't completely take over and you still display unique-to-specific-server textures.
-
 ## 3. Done
 
 If you did it right your **pack should be ~28.6MB big** and the game should look and feel like a heavily modded Minecraft 1.8.9
@@ -80,6 +77,9 @@ ingame you just have to **load the pack, but also make sure you** also **load** 
 #3 Default Textures (built-in)<br>
 
 <img width="881" height="388" alt="resource pack order" src="https://github.com/user-attachments/assets/7c53ebe6-d215-4468-9cd8-fa90d7281818"/>
+
+**It's also highly recommended to get <a href="https://modrinth.com/mod/my-resource-pack" target="_blank">"My Resource Packs, My Choice"</a> such that you can control or completely deny that some server resource pack overrides your own textures.**
+_It makes it possible to achieve a nice hybrid, where like the server pack doesn't completely take over and you still display unique-to-specific-server textures._
 
 <br>
 
