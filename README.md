@@ -58,7 +58,7 @@ makes textures for all 26.X blocks and uses original 1.8.9 assets for all blocks
 
 **Make sure that "1.8.9 textures" is the foundational pack which wins conflicts** and the other ones are **stacked correctly to provide fallback textures in their exact order**. <ins>You may need to reverse the order depending on which merger you use</ins>
 
-<img width="882" height="746" alt="resource pack merge order screen" src="https://github.com/user-attachments/assets/0f93dc83-c2d7-4762-bd48-536c7438f7f1" />
+<img width="660" height="424" alt="resource pack merge order screen" src="https://github.com/user-attachments/assets/f9d55f74-bb8c-4ee5-a242-8f3503523cfa" />
 
 _Note that PA Ultimate and Classic Look as of right now don't actually have a 26.1.2 release, so you're merging incompatible packs. Ideally you'd use an <a href="https://convertmcpack.net/" target="_blank">generic online texture pack updater like this one</a> for these 2 packs, but i didn't see any difference. The game looks completely fine even if you don't do this. I didn't either._
 
@@ -71,7 +71,7 @@ It makes it possible to achieve a nice hybrid, where like the server pack doesn'
 
 ## 3. Done
 
-If you did it right your **pack should be ~38.9MB big** and the game should look and feel like a heavily modded Minecraft 1.8.9
+If you did it right your **pack should be ~28.6MB big** and the game should look and feel like a heavily modded Minecraft 1.8.9
 
 ingame you just have to **load the pack, but also make sure you** also **load** the built-in programmer art below it, so **your resource packs** are **ordered like this**:
 
