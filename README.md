@@ -51,19 +51,23 @@ makes textures for all 26.X blocks and uses original 1.8.9 assets for all blocks
 
 (top to bottom)
 
-#1 1.8.9 textures (**<a href="https://kaduvert.github.io/PackPort-1.8.9-to-26.1.2/" target="_blank">converted</a> as outlined above to** be **26.1.2** compatible)<br>
-#2 **Patched** <a href="https://modrinth.com/resourcepack/classic-look" target="_blank">Classic Look</a> (patched with <a href="https://kaduvert.github.io/awesome-minecraft-textures" target="_blank">the above tool</a>)<br>
-#3 <a href="https://modrinth.com/resourcepack/programmer-art-ultimate" target="_blank">Programmer Art Ultimate</a><br>
-#4 <a href="https://modrinth.com/resourcepack/programmer-art-fix" target="_blank">Programmer Art Fix</a><br>
+#1 <a href="https://modrinth.com/resourcepack/programmer-art-fix" target="_blank">Programmer Art Fix</a><br>
+#2 <a href="https://modrinth.com/resourcepack/programmer-art-ultimate" target="_blank">Programmer Art Ultimate</a><br>
+#3 **Patched** <a href="https://modrinth.com/resourcepack/classic-look" target="_blank">Classic Look</a> (patched with <a href="https://kaduvert.github.io/awesome-minecraft-textures" target="_blank">the above tool</a>)<br>
+#4 1.8.9 textures (**<a href="https://kaduvert.github.io/PackPort-1.8.9-to-26.1.2/" target="_blank">converted</a> as outlined above to** be **26.1.2** compatible)<br>
 
-<img width="882" height="746" alt="resource pack merge order screen" src="https://github.com/user-attachments/assets/aedb897c-9e08-42f8-8965-a1e43edfba9f" />
+**Make sure that "1.8.9 textures" is the foundational pack which wins conflicts** and the other ones are **stacked correctly to provide fallback textures in their exact order**. <ins>You may need to reverse the order depending on which merger you use</ins>
 
+<img width="882" height="746" alt="resource pack merge order screen" src="https://github.com/user-attachments/assets/0f93dc83-c2d7-4762-bd48-536c7438f7f1" />
 
 _Note that PA Ultimate and Classic Look as of right now don't actually have a 26.1.2 release, so you're merging incompatible packs. Ideally you'd use an <a href="https://convertmcpack.net/" target="_blank">generic online texture pack updater like this one</a> for these 2 packs, but i didn't see any difference. The game looks completely fine even if you don't do this. I didn't either._
 
 <br>
 
 **Download the resulting pack and rename it to "Minecraft 1.8.9" or whatever (as said, for your local reference only, do not distribute this pack)**
+
+**It's also highly recommended to get "My Resource Packs, My Choice" such that you can control or completely deny that server resource pack override your own textures.**
+It makes it possible to achieve a nice hybrid, where like the server pack doesn't completely take over and you still display unique-to-specific-server textures.
 
 ## 3. Done
 
